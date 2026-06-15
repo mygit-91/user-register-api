@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UserRegisterApi/UserRegisterApi.csproj" />
+  <Project Path="XUnitTests/XUnitTests.csproj" Id="97cd3b93-6648-4559-9a4c-03fcda783943" />
+</Solution>
